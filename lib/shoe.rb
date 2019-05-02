@@ -42,8 +42,12 @@ def condition
 end
 
 def cobble
+<<<<<<< HEAD
   puts "Your shoe is as good as new!"
   self.condition = "new"
+=======
+  puts ""
+>>>>>>> 8ed217e243b9b4d920cecd1f36cca426a01a47e5
 end
 
 end
